@@ -1,1 +1,1 @@
-# Up-Hire-Backend
+# uphire-be-postgresql
